@@ -17,7 +17,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 ## Program 
 Name:Abdul Rawoof
-reg n0"212224230003
+
+reg no:212224230003
 ```
 import socket
 
